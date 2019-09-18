@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(https://www.agdelta.com/wp-content/uploads/2018/06/website-parallax-background-C.jpg) no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 450px;
+    background color: rgba(196, 57, 57, 0.966)
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+.box-img{
+    border-radius: 50%
+    width: 200px;
+    height: 200px;
+}
+.box h1{
+    font-size: 40px
+    letter-spacing: 10px
+    font-weight: 100;
+}
+.box h5{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+.box{
+text-align: justify;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.box li{
+    display: inline-block;
+    margin: 6px
+    list-style: none;
+}
+.box li A{
+    color: white
+    Text-decoration: none;
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+color: #b9b9b9}
